@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+this my project build with flutter making contact app 
 
-This project is a starting point for a Flutter application.
+preview
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![contact](https://github.com/ahmdirvn/ContactApp/assets/98068506/a4f036de-433a-4abb-968e-6db6c7914323)
+![contact2](https://github.com/ahmdirvn/ContactApp/assets/98068506/7459dc0c-dead-40ca-8726-1559b40b03fc)
+![contact3](https://github.com/ahmdirvn/ContactApp/assets/98068506/bc8815cf-2382-4cdc-8210-3bc1b562696e)
